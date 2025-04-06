@@ -28,7 +28,6 @@ Building scalable, AI-powered startups solving real-world problems — from Indi
 
 ## 📊 GitHub Stats
 
-![m-spunky's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-spunky&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-spunky&layout=compact)
 
 ---
